@@ -11,6 +11,9 @@ The testing focused on customer management, account-related operations, deposits
 
 Application: XYZ Bank / Banking Project
 URL: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+Driver URL: https://drive.google.com/drive/folders/1liLZZi5z2HQf6ZRGmocYOBoWW4ZjhAxG
+
+## 🐞Bug Report link: https://drive.google.com/drive/folders/1qyRWXntiVXfNApqgCKEzyFPvyIWZeD45
 
 ## 🎯 Testing Objectives
 
@@ -31,7 +34,7 @@ URL: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
 	Identify and document failed test scenarios.
 
 
-📊 Test Result
+## 📊 Test Result
 
 	--Total Test Cases: 35
 	--Passed: 31
@@ -41,7 +44,7 @@ URL: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
 
 The failed scenarios were recorded in the execution sheet with supporting notes/references for further investigation.
 
-🛠️ Testing Techniques
+## 🛠️ Testing Techniques
 
 The project applied common manual testing techniques, including:
 Functional Testing
@@ -56,62 +59,21 @@ Search Testing
 Regression-oriented verification
 
 
-🐞 Defect Identification
+## 🐞 Defect Identification
 
 During execution, 4 test cases failed:
 Manager Module: 3 failed
 Customer Module: 1 failed
 Failed cases were marked in the test execution sheet and linked to supporting screenshot/screen-recording references where available.
 
-🚀 How to Execute the Test Cases
 
-Open the XYZ Bank application.
-
-Navigate to the Manager or Customer login flow.
-
-Select the relevant test case from the Excel workbook.
-
-Verify the preconditions.
-
-Execute the documented test steps.
-
-Compare the actual behavior with the expected result.
-
-Record the actual result.
-
-Mark the test case as Pass, Fail, or Blocked.
-
-Add screenshot/screen-recording evidence for failed scenarios.
-
-Update the execution summary.
-
-💡 Key Learning Outcomes
-
-Through this project, I practiced:
-
-Writing structured manual test cases.
-
-Designing positive and negative test scenarios.
-
-Testing real-world banking workflows.
-
-Performing input and form validation testing.
-
-Executing test cases and recording actual results.
-
-Analyzing failed test scenarios.
-
-Preparing a test execution summary.
-
-Maintaining testing evidence and traceability.
-
-👨‍💻 Project Role
+## 👨‍💻 Project Role
 
 Role: Manual QA / SQA Engineer
 Testing Type: Manual Testing
 Primary Artifact: Test Case & Test Execution Excel Workbook
 
-Author
+## Author
 
-Mozzammel Hossen
+### Mozzammel Hossen
 Aspiring SQA Engineer | Manual Testing | API Testing | Automation Testing
